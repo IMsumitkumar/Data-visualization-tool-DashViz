@@ -1,6 +1,9 @@
 # dashViz
 A data Visualization tool 
 
+![DashViz Tool](https://github.com/IMsumitkumar/dashViz/blob/master/dataViz_tool.png)
+
+---
 download repo and head to local repository
 
 ```
