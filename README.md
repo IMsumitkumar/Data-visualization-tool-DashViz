@@ -1,6 +1,10 @@
 # dashViz
 A data Visualization tool 
 
+![dashViz gif](https://github.com/IMsumitkumar/AutoML-DashB.ai/blob/main/images/20201024_140312.gif)
+
+---
+
 ![DashViz Tool](https://github.com/IMsumitkumar/dashViz/blob/master/dataViz_tool.png)
 
 ---
